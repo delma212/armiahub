@@ -1,2 +1,2 @@
-```armiahub```
-ArmiaHub.PL
+# ArmiaHub.PL - COMMUNITY
+Najlepszy serwer minecraft
